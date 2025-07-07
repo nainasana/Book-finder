@@ -1,0 +1,82 @@
+[
+    {
+        "_id": 1,
+        "name": "The Great Adventure",
+        "title": "An epic journey through fantasy realms and magical creatures",
+        "price": 90,
+        "category": "Fantasy",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1713977564~exp=1713981164~hmac=9b35adc465360075b320923653390cdde2b812ff769109f8b70daf8fb7e47122&w=740"
+    },
+    {
+        "_id": 2,
+        "name": "Sports Psychology",
+        "title": "Mental training techniques for peak athletic performance",
+        "price": 80,
+        "category": "Sports",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1713977564~exp=1713981164~hmac=9b35adc465360075b320"
+    },
+    {
+        "_id": 3,
+        "name": "Music Theory Mastery",
+        "title": "Complete guide to understanding music composition and theory",
+        "price": 40,
+        "category": "Music",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1713977564~exp=1713981164~hmac=9b35adc465360075b320"
+    },
+    {
+        "_id": 4,
+        "name": "Quantum Physics",
+        "title": "Exploring the mysteries of quantum mechanics and particle physics",
+        "price": 60,
+        "category": "Science",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1713977564~exp=1713981164~hmac=9b35adc465360075b320"
+    },
+    {
+        "_id": 5,
+        "name": "Web Development",
+        "title": "Modern web development with React, Node.js, and TypeScript",
+        "price": 50,
+        "category": "Technology",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1713977564~exp=1713981164~hmac=9b35adc465360075b320"
+    },
+    {
+        "_id": 6,
+        "name": "Culinary Arts",
+        "title": "Master the art of cooking with professional techniques",
+        "price": 30,
+        "category": "Cooking",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1713977564~exp=1713981164~hmac=9b35adc465360075b320"
+    },
+    {
+        "_id": 7,
+        "name": "Stand-up Comedy",
+        "title": "Learn the art of comedy writing and performance",
+        "price": 10,
+        "category": "Comedy",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1713977564~exp=1713981164~hmac=9b35adc465360075b320"
+    },
+    {
+        "_id": 8,
+        "name": "Data Science",
+        "title": "Introduction to machine learning and data analysis",
+        "price": 75,
+        "category": "Technology",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1713977564~exp=1713981164~hmac=9b35adc465360075b320"
+    },
+    {
+        "_id": 9,
+        "name": "Meditation Guide",
+        "title": "Mindfulness practices for stress relief and mental clarity",
+        "price": 25,
+        "category": "Wellness",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1713977564~exp=1713981164~hmac=9b35adc465360075b320"
+    },
+    {
+        "_id": 10,
+        "name": "Photography Basics",
+        "title": "Master the fundamentals of digital photography",
+        "price": 45,
+        "category": "Art",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1713977564~exp=1713981164~hmac=9b35adc465360075b320"
+    }
+]
