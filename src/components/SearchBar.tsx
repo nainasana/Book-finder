@@ -50,8 +50,8 @@ const SearchBar = () => {
   };
 
   return (
-    <div className="relative">
-      <label className="px-3 py-2 border rounded-md flex items-center gap-2 bg-neutral-100 dark:bg-slate-800 dark:text-white">
+    <div className="relative w-full">
+      <label className="w-full px-3 py-2 border rounded-md flex items-center gap-2 bg-neutral-100 dark:bg-slate-800 dark:text-white">
         <input
           type="text"
           className="grow outline-none rounded-md px-1 bg-transparent dark:text-white"
