@@ -168,7 +168,7 @@ const Navbar = () => {
             </div>
           </div>
         </div>
-        <div className="block md:hidden px-4 pt-2">
+        <div className="block md:hidden px-4 pt-2 pb-4">
           <SearchBar />
         </div>
       </div>
