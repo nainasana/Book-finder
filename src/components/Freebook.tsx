@@ -4,6 +4,9 @@ import Slider from "react-slick";
 import book from "../data/booklist.json";
 
 import Cards from "./Cards";
+
+const SliderComponent = Slider as any;
+
 const Freebook = () => {
   const settings = {
     dots: true,
@@ -51,13 +54,13 @@ const Freebook = () => {
         </div>
 
         <div>
-          <Slider {...settings}>
+          <SliderComponent {...settings}>
             {book.map((item, idx) => (
               <div key={`slider${idx}`}>
                 <Cards item={item} />
               </div>
             ))}
-          </Slider>
+          </SliderComponent>
         </div>
       </div>
     </>

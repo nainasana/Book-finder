@@ -7,6 +7,8 @@ import png3 from "../assets/slides/3.png";
 import png4 from "../assets/slides/4.png";
 import png5 from "../assets/slides/5.png";
 
+const SliderComponent = Slider as any;
+
 const LeftSlider = () => {
   const images = [png1, png2, png3, png4, png5];
 
@@ -29,7 +31,7 @@ const LeftSlider = () => {
           <h3>Welcome to Store</h3>
         </div>
         <div className="w-96 h-auto">
-          <Slider {...settings}>
+          <SliderComponent {...settings}>
             {images.map((image, index) => (
               <div key={index}>
                 <img
@@ -39,7 +41,7 @@ const LeftSlider = () => {
                 />
               </div>
             ))}
-          </Slider>
+          </SliderComponent>
         </div>
       </div>
     </>
