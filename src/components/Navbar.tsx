@@ -101,6 +101,9 @@ const Navbar = () => {
                 tabIndex={0}
                 className="menu menu-sm dropdown-content mt-3 z-[1] p-2 shadow bg-base-100 rounded-box w-52  dark:bg-slate-900 dark:text-white dark: border"
               >
+                <li className="mb-3">
+                  <SearchBar />
+                </li>
                 {navItems}
               </ul>
             </div>
